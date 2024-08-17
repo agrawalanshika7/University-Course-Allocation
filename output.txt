@@ -1,0 +1,26 @@
+Courses:     Professors in order of priority:
+fdc1           pE pA pF pG 
+fdc2           pA 
+hdc1           pB pE 
+fde1           pC pD pB 
+hde1           pD 
+
+pC is assigned the following:
+	1. Half a course of fde1
+
+pD is assigned the following:
+	1. Full course of hde1
+
+pB is assigned the following:
+	1. Half a course of hdc1
+	2. Half a course of fde1
+
+pE is assigned the following:
+	1. Half a course of hdc1
+
+pA is assigned the following:
+	1. Full course of fdc2
+
+pF is assigned the following:
+	1. Full course of fdc1
+

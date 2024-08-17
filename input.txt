@@ -1,0 +1,14 @@
+7
+pC,0.5,0,0,1,fde1,0
+pD,1,0,0,1,fde1,1,hde1
+pB,1,0,1,hdc1,1,fde1,0
+pE,0.5,1,fdc1,1,hdc1,0,0
+pA,1,2,fdc1,fdc2,0,0,0
+pF,1,1,fdc1,0,0,0
+pG,1,1,fdc1,0,0,0
+
+The format of the input is as follows:
+Number of professors
+Name, Course-load, No. of fd cdcs, list of FD cdcs(seperated by comma) , No. of HD cdcs, list of HD cdcs(seperated by comma) ,No. of FD electives, list of FD electives(seperated by comma) ,No. of HD electives, list of HD electives(seperated by comma) 
+////(leave a line after every professor)
+
