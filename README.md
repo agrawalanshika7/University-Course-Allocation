@@ -1,6 +1,6 @@
-#University Course Allocation
+# University Course Allocation
 
-##*Question Statement : An Application of Graph Optimization-Course Project*
+## *Question Statement : An Application of Graph Optimization-Course Project*
 
 The research problem at hand revolves around the optimization of the University Course Assignment System. Within a department, there are "n" faculty members categorised into three distinct groups: "x1," "x2," and "x3." Faculty in each category are assigned different course loads, with "x1" handling 0.5 courses per semester, "x2" taking 1 course per semester, and "x3" managing 1.5 courses per semester.
 
@@ -10,17 +10,20 @@ The primary objective of this research problem is to develop an assignment schem
 
 This problem is unique due to the flexibility it offers regarding the number of courses faculty members can take, distinct from typical Assignment problems. Potential modifications may include adjusting the maximum number of courses "y" for each category of professors, instead of requiring exact adherence, or extending the number of professor categories beyond the existing three to devise a more generalised solution.
 
-##*Solution : *
+## *Solution :*
 
 Solution Report : https://drive.google.com/file/d/1KULSXwacj21KtGMQMWcbt5G-AG7DV8NW/view?usp=sharing
 
-##* File Structure : * 
+## *File Structure :* 
 main.cpp - It contains the main function which has to be executed.
+
 input.txt - It contains the input file.
+
 output.txt - It contains the output file.
+
 testcaseandoutputs.pdf - Contains Sample Test cases.
 
-##*Limitations : *
+## *Limitations :*
 
 A limitation of this algorithm is that it may struggle with handling a very large number of courses and professors due to its relatively high time complexity.
 
