@@ -15,13 +15,13 @@ This problem is unique due to the flexibility it offers regarding the number of 
 Solution Report : https://drive.google.com/file/d/1KULSXwacj21KtGMQMWcbt5G-AG7DV8NW/view?usp=sharing
 
 ## *File Structure :* 
-main.cpp - It contains the main function which has to be executed.
+- main.cpp - It contains the main function which has to be executed.
 
-input.txt - It contains the input file.
+- input.txt - It contains the input file.
 
-output.txt - It contains the output file.
+- output.txt - It contains the output file.
 
-testcaseandoutputs.pdf - Contains Sample Test cases.
+- TestCases & Outputs.pdf - Contains Sample Test cases.
 
 ## *Limitations :*
 
